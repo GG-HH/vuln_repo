@@ -1,2 +1,2 @@
 celery==4.4.7
-requests==1.0.1
+requests==2.20
