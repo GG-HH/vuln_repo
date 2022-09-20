@@ -1,2 +1,3 @@
 requests==1.0.3
 celery-rmq==0.0.2
+marcador==0.12
