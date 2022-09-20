@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-celery = "==4.4.7"
+celery-rmq = "==0.0.2"
 
 [dev-packages]
 
