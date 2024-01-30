@@ -3,3 +3,4 @@ celery-rmq==0.0.2
 marcador==0.12
 bipbipnotexists==0.1.0
 ansible==4.2.0
+ansible-core>=2.14.14 # not directly required, pinned by Snyk to avoid a vulnerability
